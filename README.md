@@ -1,5 +1,5 @@
 # AES-P2P-Chat
-A peer-to-peer secure chat developed as a proof of concept for a Network Security course, employing the **AES-CBC** encryption algorithm and the **Diffie-Hellman** key exchange protocol over a socket. The implementation was crafted from scratch using Python, featuring a **q Generator**, a **Miller-Rabin Primality Test**, an implementation of **RSA**, an implementation of **AES**, an **AES key generator**, and two **Clients**. The code has no comments, but I tried to stay as pythonic as possible.
+A peer-to-peer secure chat developed as a proof of concept for a Network Security course, employing the **AES-CBC** encryption algorithm and the **Diffie-Hellman** key exchange protocol over a socket. The implementation was crafted from scratch using Python, featuring a **q Generator**, a **Miller-Rabin Primality Test**, an implementation of **Textbook RSA**, an implementation of **AES**, an **AES key generator**, and two **Clients**. The code has no comments, but I tried to stay as pythonic as possible.
 
 ## To Do
 
